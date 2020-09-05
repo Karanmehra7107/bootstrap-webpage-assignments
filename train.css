@@ -1,0 +1,76 @@
+ 
+        .head1 { 
+            font-size:40px; 
+            color:white; 
+            font-weight:bold; 
+                 } 
+        .head2 { 
+            font-size:17px;
+
+            margin-left:10px; 
+            margin-bottom:15px; 
+        } 
+        body { 
+            margin: 0 auto;
+  
+            background-size: contain; 
+            
+        } 
+       .aside11{
+ background-image: url("wp5521940-indian-railway-wallpapers.jpg");
+
+
+       }
+        .menu {    
+            
+            top: 0; 
+            background-color: black; 
+            padding:10px 0px 10px 0px; 
+            color:white; 
+            margin: 0 auto; 
+            overflow: hidden; 
+             opacity: 0.5;
+        } 
+      
+        .menu a { 
+            float: left; 
+            color: white; 
+            text-align: center; 
+            padding: 14px 16px; 
+            text-decoration: none; 
+            font-size: 20px; 
+             
+        } 
+        .menu-log { 
+            right: auto; 
+            float: right; 
+        } 
+       #news{
+        color: red;
+       }
+
+#image1{
+
+    height: 40px;
+    width: 40px;
+}
+
+
+
+
+
+
+#logo1{
+
+    height: 50px;
+    width: 50px;
+}
+
+
+
+
+
+
+
+
+
