@@ -6,7 +6,6 @@ __Task by: LPU | Bootstapp__
 
 ## Table of Content
   * [Problem statment](#Problem-statment)
-  * [To Do](#to-do)
   * [Demo](#demo)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
@@ -19,14 +18,12 @@ __Task by: LPU | Bootstapp__
     
 ## Problem statment
 Rail reservation Using Bootstrap classes 
-Output: 
+
+
+   __output__
 
 ![image](https://user-images.githubusercontent.com/62024355/92321375-0ecece80-f047-11ea-9fd7-7eb3d0648605.png)
 
-
-## To Do
-1. Push your code to a repository in Github. 
-2. Host your application somewhere and then it should be accessible through the browser by a URL.
 
 
 ## Demo
