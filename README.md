@@ -11,7 +11,6 @@ __Task by: LPU | Bootstapp__
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Directory Tree](#directory-tree)
-  * [Feature](#feature)
   * [Team](#team)
   * [License](#license)
   
@@ -33,7 +32,7 @@ https://www.dropbox.com/scl/fi/qx0i2w3v51hetxx9x2s57/Front-End-Developer-Machine
 
 ## Demo
    • If you are searching for __Code__,.. you won't find it here. Click the link mentioned below for the same:<br />
-     Link: https://karanmehra7107.github.io/Internship-Front-End/
+     Link: https://github.com/Karanmehra7107/bootstrap-webpage-assignments
 
    • https://karanmehra7107.github.io/bootstrap-webpage-assignments/
 
@@ -54,9 +53,8 @@ https://www.irctc.co.in/nget/train-search
 
 ## Technical Aspect
 This project is divided into two part:
-1. Front-End Html, Css, JavaScript codes
-2. Building and hosting web app on Git_Pages.
-
+1.Layout
+2.Usage of Bootstrap classes.
 
 
 ## Directory Tree 
@@ -92,12 +90,6 @@ This project is divided into two part:
 
 ```
 
-
-## Feature 
--  If you click the minimize button of the chat box shown bottom rigth of web page, the chat box open with __margine-right:20px__ 
--  Animation in the text __Where words fail, Music speak__
--  Hover animation on the top to web page 
--  Responsive Webpage
 
 
 
