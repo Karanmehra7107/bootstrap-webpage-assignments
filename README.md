@@ -14,7 +14,7 @@ __Task by: LPU | Bootstapp__
   * [License](#license)
   
 
-  • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, JS, REACT.JS___ on ___github pages___ platform.
+  • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, JS, BOOTSTRAP___ on ___github.io___ platform.
     
 ## Problem statment
 Rail reservation Using Bootstrap classes 
@@ -52,7 +52,9 @@ https://www.irctc.co.in/nget/train-search
 
 ## Technical Aspect
 This project is divided into two part:
+
 1.Layout
+
 2.Usage of Bootstrap classes.
 
 
