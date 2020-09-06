@@ -8,7 +8,6 @@ __Task by: LPU | Bootstapp__
   * [Problem statment](#Problem-statment)
   * [To Do](#to-do)
   * [Demo](#demo)
-  * [Download Files](#download-files)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Directory Tree](#directory-tree)
@@ -36,23 +35,22 @@ https://www.dropbox.com/scl/fi/qx0i2w3v51hetxx9x2s57/Front-End-Developer-Machine
    • If you are searching for __Code__,.. you won't find it here. Click the link mentioned below for the same:<br />
      Link: https://karanmehra7107.github.io/Internship-Front-End/
 
+   • https://karanmehra7107.github.io/bootstrap-webpage-assignments/
+
    • Please do ⭐ the repository, if it helped you in anyway.
 
-   • A glimpse of the web app:
+
+   • A glimpse of the webpage:
                                                                         __output__
 
 ![Animated GIF-downsized_large (7)](https://user-images.githubusercontent.com/62024355/88308233-6d0b5080-cd2a-11ea-92a5-0d264f4e24bc.gif)
 
 
-## Download Files
-__windows cmd__
-```bash
-wget https://github.com/Karanmehra7107/Internship-Front-End.git
-  ```
- 
 
 ## Motivation
 What could be a perfect way to utilize unfortunate lockdown period? Like most of you, I spend my time in cooking, Netflix, coding, Learning and reading some latest research papers on weekends. Finding internship lead to make this project.
+Ive been searching for any sample template for my assignment. the most popular webpage i saw is IRCTC page
+https://www.irctc.co.in/nget/train-search
 
 ## Technical Aspect
 This project is divided into two part:
