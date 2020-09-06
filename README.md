@@ -19,7 +19,9 @@ __Task by: LPU | Bootstapp__
     
 ## Problem statment
 Rail reservation Using Bootstrap classes 
-Output: ![image](https://user-images.githubusercontent.com/62024355/92321375-0ecece80-f047-11ea-9fd7-7eb3d0648605.png)
+Output: 
+
+![image](https://user-images.githubusercontent.com/62024355/92321375-0ecece80-f047-11ea-9fd7-7eb3d0648605.png)
 
 
 ## To Do
