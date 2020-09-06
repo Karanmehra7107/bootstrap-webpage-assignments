@@ -24,6 +24,12 @@ Rail reservation Using Bootstrap classes
 
 ![image](https://user-images.githubusercontent.com/62024355/92321375-0ecece80-f047-11ea-9fd7-7eb3d0648605.png)
 
+![image](https://user-images.githubusercontent.com/62024355/92321452-aaf8d580-f047-11ea-8d2d-20ebd48c2147.png)
+
+![image](https://user-images.githubusercontent.com/62024355/92321463-c9f76780-f047-11ea-8d43-8f657cd3e4db.png)
+
+![image](https://user-images.githubusercontent.com/62024355/92321469-de3b6480-f047-11ea-8792-0d9c4544a149.png)
+
 
 
 ## Demo
