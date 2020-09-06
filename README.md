@@ -42,10 +42,7 @@ Rail reservation Using Bootstrap classes
 
 
    • A glimpse of the webpage:
-                                                                        __output__
-
-![Animated GIF-downsized_large (7)](https://user-images.githubusercontent.com/62024355/88308233-6d0b5080-cd2a-11ea-92a5-0d264f4e24bc.gif)
-
+                                         
 
 
 ## Motivation
