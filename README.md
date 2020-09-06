@@ -18,12 +18,9 @@ __Task by: LPU | Bootstapp__
   • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, JS, REACT.JS___ on ___github pages___ platform.
     
 ## Problem statment
-Develop a responsive website by referring the below link.
+Rail reservation Using Bootstrap classes 
+Output: ![image](https://user-images.githubusercontent.com/62024355/92321375-0ecece80-f047-11ea-9fd7-7eb3d0648605.png)
 
-![Untitled](https://user-images.githubusercontent.com/62024355/88308761-0c304800-cd2b-11ea-989a-50ac3f31f8d7.jpg)
-
-
-https://www.dropbox.com/scl/fi/qx0i2w3v51hetxx9x2s57/Front-End-Developer-Machine-Test-intermediate.papert?dl=0&rlkey=xkq3wxdlg3bxb9kyumkr5iwc8
 
 ## To Do
 1. Push your code to a repository in Github. 
