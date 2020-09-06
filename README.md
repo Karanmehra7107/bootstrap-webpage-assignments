@@ -2,7 +2,7 @@
 __Task by: LPU | Bootstapp__
 
 
-![html](https://img.shields.io/badge/language-html-blue.svg) ![CSS](https://img.shields.io/badge/design-CSS-brightgreen.svg) ![JavaScript](https://img.shields.io/badge/code-JavaScript-orange.svg)  ![react.js](https://img.shields.io/badge/language-react.js-blue.svg)
+![html](https://img.shields.io/badge/language-html-blue.svg) ![CSS](https://img.shields.io/badge/design-CSS-brightgreen.svg) ![Bootstrap](https://img.shields.io/badge/code-Bootstrap-purple.svg)  ![react.js](https://img.shields.io/badge/language-react.js-blue.svg)
 
 ## Table of Content
   * [Problem statment](#Problem-statment)
