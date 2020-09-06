@@ -2,7 +2,7 @@
 __Task by: LPU | Bootstapp__
 
 
-![html](https://img.shields.io/badge/language-html-blue.svg) ![CSS](https://img.shields.io/badge/design-CSS-brightgreen.svg) ![Bootstrap](https://img.shields.io/badge/code-Bootstrap-purple.svg)  ![react.js](https://img.shields.io/badge/language-react.js-blue.svg)
+![html](https://img.shields.io/badge/language-html-blue.svg) ![CSS](https://img.shields.io/badge/design-CSS-brightgreen.svg) ![Bootstrap](https://img.shields.io/badge/code-Bootstrap-purple.svg)  
 
 ## Table of Content
   * [Problem statment](#Problem-statment)
@@ -12,7 +12,6 @@ __Task by: LPU | Bootstapp__
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Directory Tree](#directory-tree)
-  * [Run](#run)
   * [Feature](#feature)
   * [Team](#team)
   * [License](#license)
@@ -95,19 +94,6 @@ This project is divided into two part:
 
 ```
 
-## Run
-__windows cmd__
-```bash
-   start https://karanmehra7107.github.io/Internship-Front-End/
-```
-__MacOS cmd__
-```bash
-   open https://karanmehra7107.github.io/Internship-Front-End/
-```
-__Linux/Unix cmd__
-```bash
-   xdg-open https://karanmehra7107.github.io/Internship-Front-End/
-```
 
 ## Feature 
 -  If you click the minimize button of the chat box shown bottom rigth of web page, the chat box open with __margine-right:20px__ 
