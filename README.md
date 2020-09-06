@@ -58,32 +58,15 @@ This project is divided into two part:
 
 ## Directory Tree 
 ```
-├── contactform
-├── CSS
-│   ├── style.css
-│   └── scss-files
-├── img
-│   └── Banner.png
-│   └── Feature-1.svg
-│   └── Feature-2.svg
-│   └── intro-bg.png
-│   └── intro-img.jpeg
-├── JS
-│   └── main.js
-├── lib
-│   └── animate.css
-│   └── bootstrap
-│   └── counterup
-│   └── easing
-│   └── font-awsome
-│   └── ionicons
-│   └── isotopes
-│   └── jquery
-│   └── lightbox
-│   └── mobile-nav
-│   └── owlcarousel
-│   └── waypoints
-│   └── wow
+├── css
+├── fonts
+├── js
+├── images
+│   └── train.jpeg
+│   └── rail.jpg
+│   └── irctc.png
+│   └── ROYAL.JFIF
+│   └── Download.svg
 ├── index.html
 └── README.md
 
