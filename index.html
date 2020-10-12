@@ -8,7 +8,12 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
    <link rel="stylesheet" href="train.css">
-  
+
+  <script>
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip();   
+});
+</script>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
   <link href="css/font-awesome.min.css" rel="stylesheet">
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -30,18 +35,16 @@
         <div class="head1">Savari   <img id="logo1" src="bookmysavari-logo.jpg" class="img-rounded"></div> 
  
     </header> 
-    <div class="navbar-header">
-      <a class="navbar-brand" href="https://www.irctc.co.in/nget/train-search">Special VIP Trains</a>
-    </div>
+    
     <ul class="nav navbar-nav">
-      <li class="active"><a href="https://www.irctc.co.in/nget/train-search">Home</a></li>
-      
-      <li><a href="#">Rail Map</a></li>
-      <li><a href="https://www.irctc.co.in/nget/train-search">Inquiry</a></li>
-      <li><a href="https://www.irctc.co.in/nget/train-search">Tatkal</a></li>
-      
-     <li><a href="https://www.irctc.co.in/nget/train-search">Transport</a></li>
+      <li class="active"><b><h3><a data-toggle="tooltip" data-placement="top" title="current page!">Home</a></h3></b></li>
 
+     <li><a href="index1.html">Travel <span class="badge badge-secondary">New</span></a></li>
+
+      <li><a href="index2.html">Contact us <span class="badge badge-primary">New</span></a></li>
+
+    
+      
     <li> <form class="form-inline d-flex justify-content-center md-form form-sm active-cyan-2 mt-2">
   <input class="form-control form-control-sm mr-3 w-75" type="text" placeholder="Search train"
     aria-label="Search">
@@ -49,7 +52,6 @@
 
    <span class="glyphicon glyphicon-search"></span>
 </form></li>
- <li><a href="https://www.irctc.co.in/nget/train-search">Contact us</a></li>
 <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Map<span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="#">Rail Map</a></li>
@@ -230,7 +232,7 @@ Apart from this, metro rails services are also set to resume in a calibrated man
                                         </div>                                     
                                     </div>                          
                                     <div class="form-group tm-yellow-gradient-bg text-center">
-                                        <button type="submit" name="submit" class="tm-yellow-btn"></button>
+                                        <button type="submit" name="submit" class="tm-yellow-btn">check</button>
 
                                     </div>
 
@@ -251,99 +253,77 @@ Apart from this, metro rails services are also set to resume in a calibrated man
 
       </section>
 
-   <aside>
-    <!-- white bg -->
-    <section class="tm-white-bg section-padding-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="tm-section-header section-margin-top">
 
-                    <div class="col-lg-4 col-md-3 col-sm-3"><hr></div>
-                    <div class="col-lg-4 col-md-6 col-sm-6"><h2 class="tm-section-title">Royal Trains</h2></div>
-                    <div class="col-lg-4 col-md-3 col-sm-3"><hr></div>  
-                </div>
-                <div class="col-lg-6">
-                    <div class="tm-home-box-3">
-                        <div class="tm-home-box-3-img-container">
-                            <img src="download.jfif" height="250px" width="225px" alt="image" class="img-rounded"> 
-                        </div>                      
-                        <div class="tm-home-box-3-info">
-                            <p class="tm-home-box-3-description">Maharaja's Express
-Redefining Royalty, Luxury and Comfort, Maharajas’ express takes you on a sojourn .........</p>
-                            <div class="tm-home-box-2-container">
-                            <a href="#" class="tm-home-box-2-link"><i class="fa fa-heart tm-home-box-2-icon border-right"></i></a>
-                            <a href="https://www.the-maharajas.com/" class="tm-home-box-2-link"><span class="tm-home-box-2-description box-3">Travel</span></a>
-                            <a href="#" class="tm-home-box-2-link"><i class="fa fa-edit tm-home-box-2-icon border-left"></i></a>
-                        </div>
-                        </div>                      
-                    </div>                  
-                 </div>
-                 <div class="col-lg-6">
-                    <div class="tm-home-box-3">
-                        <div class="tm-home-box-3-img-container">
-                            <img src="images (2).jfif"height="250px" width="225px" alt="image" class="img-rounded"> 
-                        </div>                      
-                        <div class="tm-home-box-3-info">
-                            <p class="tm-home-box-3-description">‘Palace on Wheels’ is another in the list of luxury train ride in India that was refurbished and re-launched in 2009 to.....</p>
-                            <div class="tm-home-box-2-container">
-                            <a href="#" class="tm-home-box-2-link"><i class="fa fa-heart tm-home-box-2-icon border-right"></i></a>
-                            <a href="https://www.the-maharajas.com/" class="tm-home-box-2-link"><span class="tm-home-box-2-description box-3">Travel</span></a>
-                            <a href="#" class="tm-home-box-2-link"><i class="fa fa-edit tm-home-box-2-icon border-left"></i></a>
-                        </div>
-                        </div>                      
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="tm-home-box-3">
-                        <div class="tm-home-box-3-img-container">
-                            <img src="Luxury-Trains-Journeys-in-South-India.jpg" height="350px" width="225px" alt="image" class="img-rounded"> 
-                        </div>                      
-                        <div class="tm-home-box-3-info">
-                            <p class="tm-home-box-3-description">the Fairy Queen Express is one of the oldest trains providing luxury train journeys in India. Powered by the ......</p>
-                            <div class="tm-home-box-2-container">
-                            <a href="#" class="tm-home-box-2-link"><i class="fa fa-heart tm-home-box-2-icon border-right"></i></a>
-                            <a href="https://www.the-maharajas.com/" class="tm-home-box-2-link"><span class="tm-home-box-2-description box-3">Travel</span></a>
-                            <a href="#" class="tm-home-box-2-link"><i class="fa fa-edit tm-home-box-2-icon border-left"></i></a>
-                        </div>
-                        </div>                      
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="tm-home-box-3">
-                        <div class="tm-home-box-3-img-container">
-                            <img src="images (4).jfif" height="350px" width="225px"  alt="image" class="img-rounded"> 
-                        </div>                      
-                        <div class="tm-home-box-3-info">
-                            <p class="tm-home-box-3-description">The Golden Chariot is one of the superb luxury trains in India that takes you to some of the most famous tourist places.....</p>
-                            <div class="tm-home-box-2-container">
-                            <a href="#" class="tm-home-box-2-link"><i class="fa fa-heart tm-home-box-2-icon border-right"></i></a>
-                            <a href="https://www.the-maharajas.com/" class="tm-home-box-2-link"><span class="tm-home-box-2-description box-3">Travel</span></a>
-                            <a href="#" class="tm-home-box-2-link"><i class="fa fa-edit tm-home-box-2-icon border-left"></i></a>
-                        </div>
-                        </div>                      
-                    </div>
-                </div>
-            </div>      
+
+</div>
+<div class="container">
+  
+  <!-- Button to Open the Modal -->
+  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+    Download android app <span class="badge badge-secondary">New</span>
+  </button>
+
+  <!-- The Modal -->
+  <div class="modal" id="myModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Oops! app is under developing</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
         </div>
+        
+        <!-- Modal body -->
+        <div class="modal-body">
+        comming soon!
+        </div>
+        
+        <!-- Modal footer -->
+        <div class="modal-footer"><center>
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        </center></div>
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+ 
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th>versions</th>
+        
+      </tr>
+    </thead> 
+     
+      
+    </tbody>
+  </table>
+</div>
 
 
 
-
-
-    </section>
-
-</aside>
-</aside>
+  
    <footer class="page-footer font-small blue">
    	  <center><ul class="pagination">
-  <li><a href="#">Home</a></li>
-  <li><a href="#">Travel</a></li>
- 
+  
+
+
+  <div class="container">
+  
+  <button type="button" class="btn btn-primary"><h3>Home</h3> <span class="badge">pg-1</span></button>     
+     <button type="button" class="btn btn-success"><a href="index1.html"> Travel</a><span class="badge">pg-2</span></button>    
+  <button type="button" class="btn btn-danger"><a href="index2.html"> Contact</a><span class="badge">pg3</span></button>        
+ </div>
 </ul>
 </center>
-<center>
-<button type="button" class="btn btn-primary btn-xs">Download our app</button>
-</center>
+    
+    
+
+
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2020 <a href="https://github.com/Karanmehra7107">  Karan Mehra</a> 11815793 CAP916
     <a href="#"> made with love</a>
