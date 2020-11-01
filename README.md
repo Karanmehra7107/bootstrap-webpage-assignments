@@ -17,7 +17,7 @@ __Task by: LPU | Bootstapp__
   • This repository consists of files required to deploy an ___WEB PAGE___ created with ___HTML, CSS, JS, BOOTSTRAP___ on ___github.io___ platform.
     
 ## Problem statment
-Rail reservation Using Bootstrap classes 
+WAP to create 6 web pages of train reservation system using css and all bootstrap classes.
 
 
    __output__
