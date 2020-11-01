@@ -54,9 +54,11 @@ https://www.irctc.co.in/nget/train-search
 ## Technical Aspect
 This project is divided into two part:
 
-1.Layout/ css
+__1.Layout/ css__
 
-2.Usage of Bootstrap classes.
+__2.Usage of Bootstrap classes.__
+
+
  __Bootstrap scaffolding__
  
  
