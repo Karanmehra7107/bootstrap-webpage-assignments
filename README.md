@@ -56,6 +56,52 @@ This project is divided into two part:
 1.Layout/ css
 
 2.Usage of Bootstrap classes.
+Bootstrap scaffolding
+• introduction to bootstrap
+• bootstrap file structure
+• basic HTML template
+• global styles
+• default grid system
+• fluid grid system
+• container layouts
+• responsive design
+Bootstrap layout components
+• dropdown menus
+• button groups
+• buttons with dropdowns
+• navigation elements
+• navbar
+• breadcrumbs
+• pagination
+• labels
+• badges
+• typographic elements
+Bootstrap CSS
+• typography
+• code
+• tables
+• buttons
+• images
+• icons
+Bootstrap javaScript plugins
+• modal
+• dropdown
+• scrollspy
+• toggleable tabs
+• pop-over
+• alerts
+• buttons
+List of Practicals / Experiments:
+Session 2020-21 Page:1/2
+Text Books:
+1. BOOTSTRAP RESPONSIVE WEB DEVELOPMENT by JAKE SPURLOCK, O'REILLY
+References:
+1. LEARNING BOOTSTRAP by ARAVIND SHENOY, ULRICH SOSSOU, PACKT PUBLISHING
+• collapse
+• carousel
+• typeahead
+• affix
+
 
 
 ## Directory Tree 
