@@ -21,7 +21,7 @@ __Task by: LPU | CAP916 Bootstapp__
 WAP to create 6 web pages of train reservation system using css and all bootstrap classes.
 
 
-   __Screenshots__
+   ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/62024355/92321375-0ecece80-f047-11ea-9fd7-7eb3d0648605.png)
 
@@ -58,6 +58,8 @@ This project is divided into two part:
 
 2.Usage of Bootstrap classes.
  __Bootstrap scaffolding__
+ 
+ 
 • introduction to bootstrap
 • bootstrap file structure
 • basic HTML template
@@ -66,7 +68,11 @@ This project is divided into two part:
 • fluid grid system
 • container layouts
 • responsive design
+
+
 __Bootstrap layout components__
+
+
 • dropdown menus
 • button groups
 • buttons with dropdowns
@@ -77,14 +83,22 @@ __Bootstrap layout components__
 • labels
 • badges
 • typographic elements
+
+
 __Bootstrap CSS__
+
+
 • typography
 • code
 • tables
 • buttons
 • images
 • icons
+
+
 __Bootstrap javaScript plugins__
+
+
 • modal
 • dropdown
 • scrollspy
