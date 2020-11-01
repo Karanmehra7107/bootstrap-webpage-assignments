@@ -6,6 +6,7 @@ __Task by: LPU | CAP916 Bootstapp__
 
 ## Table of Content
   * [Problem statment](#Problem-statment)
+  * [Screenshots](#Screenshots)
   * [Demo](#demo)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
@@ -20,7 +21,7 @@ __Task by: LPU | CAP916 Bootstapp__
 WAP to create 6 web pages of train reservation system using css and all bootstrap classes.
 
 
-   __output__
+   __Screenshots__
 
 ![image](https://user-images.githubusercontent.com/62024355/92321375-0ecece80-f047-11ea-9fd7-7eb3d0648605.png)
 
