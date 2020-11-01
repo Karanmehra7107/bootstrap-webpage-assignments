@@ -53,7 +53,7 @@ https://www.irctc.co.in/nget/train-search
 ## Technical Aspect
 This project is divided into two part:
 
-1.Layout
+1.Layout/ css
 
 2.Usage of Bootstrap classes.
 
@@ -64,12 +64,17 @@ This project is divided into two part:
 ├── fonts
 ├── js
 ├── images
-│   └── train.jpeg
-│   └── rail.jpg
-│   └── irctc.png
-│   └── ROYAL.JFIF
+│   ├──train.jpeg
+│   ├── rail.jpg
+│   ├── irctc.png
+│   ├── ROYAL.JFIF
 │   └── Download.svg
 ├── index.html
+├── index1.html
+├── index2.html
+├── index3.html
+├── index4.html
+├── index5.html
 └── README.md
 
 ```
