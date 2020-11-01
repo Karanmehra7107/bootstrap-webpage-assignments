@@ -6,7 +6,7 @@ __Task by: LPU | CAP916 Bootstapp__
 
 ## Table of Content
   * [Problem statment](#Problem-statment)
-  * [Screenshots](#Screenshots)
+  * [Screenshots](#screenshots)
   * [Demo](#demo)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
@@ -57,7 +57,7 @@ This project is divided into two part:
 1.Layout/ css
 
 2.Usage of Bootstrap classes.
-Bootstrap scaffolding
+ __Bootstrap scaffolding__
 • introduction to bootstrap
 • bootstrap file structure
 • basic HTML template
@@ -66,7 +66,7 @@ Bootstrap scaffolding
 • fluid grid system
 • container layouts
 • responsive design
-Bootstrap layout components
+__Bootstrap layout components__
 • dropdown menus
 • button groups
 • buttons with dropdowns
@@ -77,14 +77,14 @@ Bootstrap layout components
 • labels
 • badges
 • typographic elements
-Bootstrap CSS
+__Bootstrap CSS__
 • typography
 • code
 • tables
 • buttons
 • images
 • icons
-Bootstrap javaScript plugins
+__Bootstrap javaScript plugins__
 • modal
 • dropdown
 • scrollspy
@@ -92,17 +92,10 @@ Bootstrap javaScript plugins
 • pop-over
 • alerts
 • buttons
-List of Practicals / Experiments:
-Session 2020-21 Page:1/2
-Text Books:
-1. BOOTSTRAP RESPONSIVE WEB DEVELOPMENT by JAKE SPURLOCK, O'REILLY
-References:
-1. LEARNING BOOTSTRAP by ARAVIND SHENOY, ULRICH SOSSOU, PACKT PUBLISHING
 • collapse
 • carousel
 • typeahead
 • affix
-
 
 
 ## Directory Tree 
