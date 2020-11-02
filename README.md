@@ -37,7 +37,7 @@ WAP to create 6 web pages of train reservation system using css and all bootstra
    • If you are searching for __Code__,.. you won't find it here. Click the link mentioned below for the same:<br />
      Link: https://github.com/Karanmehra7107/bootstrap-webpage-assignments
 
-   • https://karanmehra7107.github.io/bootstrap-webpage-assignments/
+   • https://karanmehra7107.github.io/rail-booking-bootstrap-webpage-assignments/
 
    • Please do ⭐ the repository, if it helped you in anyway.
 
